@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My GitHub Test Application</string>
+    <string name="button_clicker_main">Click Me, I\'m Android!</string>
 </resources>
